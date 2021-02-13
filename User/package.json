@@ -58,7 +58,7 @@
     "cordova-plugin-device": "^1.1.7",
     "cordova-plugin-file": "^6.0.1",
     "cordova-plugin-googlemaps": "^2.4.4",
-    "cordova-plugin-inappbrowser": "^1.7.2",
+    "cordova-plugin-inappbrowser": "^3.1.0",
     "cordova-plugin-ionic-webview": "^1.2.1",
     "cordova-plugin-ionic-wkkeyboard": "^1.1.15",
     "cordova-plugin-paystack": "git+https://github.com/blinks32/cordova-paystack-plugin-updated.git",
