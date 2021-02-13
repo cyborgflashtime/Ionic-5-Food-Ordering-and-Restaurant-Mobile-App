@@ -39,7 +39,7 @@
     "@ionic-native/stripe": "^4.9.1",
     "@ionic-native/vibration": "^4.9.1",
     "@ionic/storage": "2.0.1",
-    "angular": "^1.7.2",
+    "angular": "^1.8.0",
     "body-parser": "^1.18.3",
     "browser-sync": "^2.24.7",
     "call-number": "git+https://github.com/Rohfosho/CordovaCallNumberPlugin.git",
